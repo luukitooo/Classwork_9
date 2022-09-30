@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="14dp"
+    android:layout_height="14dp"
+    android:layout_margin="16dp"
+    android:background="@drawable/shape_indicator"
+    android:backgroundTint="@android:color/darker_gray">
+
+</androidx.appcompat.widget.AppCompatButton>
